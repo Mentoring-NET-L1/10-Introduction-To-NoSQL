@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbUsage", "MongoDbUsag
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDbScripts", "MongoDbScripts", "{22A2112C-3163-437B-8378-3A6FB28ACF9F}"
 	ProjectSection(SolutionItems) = preProject
-		scripts.js = scripts.js
+		MongoDbScripts\scripts.js = MongoDbScripts\scripts.js
 	EndProjectSection
 EndProject
 Global
